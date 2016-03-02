@@ -1,0 +1,17 @@
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\ProjectTest_LeapMotion - Copie\ProjectTest_LeapMotion\bin\Debug\LeapSigningMotion.exe
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\ProjectTest_LeapMotion - Copie\ProjectTest_LeapMotion\bin\Debug\LeapSigningMotion.pdb
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\ProjectTest_LeapMotion - Copie\ProjectTest_LeapMotion\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\ProjectTest_LeapMotion - Copie\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.FrameDataForm.resources
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\ProjectTest_LeapMotion - Copie\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.Properties.Resources.resources
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\ProjectTest_LeapMotion - Copie\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.csproj.GenerateResource.Cache
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\ProjectTest_LeapMotion - Copie\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.exe
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\ProjectTest_LeapMotion - Copie\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.pdb
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\LeapSigningMotion\ProjectTest_LeapMotion\bin\Debug\LeapSigningMotion.exe
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\LeapSigningMotion\ProjectTest_LeapMotion\bin\Debug\LeapSigningMotion.pdb
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\LeapSigningMotion\ProjectTest_LeapMotion\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\LeapSigningMotion\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.csprojResolveAssemblyReference.cache
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\LeapSigningMotion\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.FrameDataForm.resources
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\LeapSigningMotion\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.Properties.Resources.resources
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\LeapSigningMotion\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.csproj.GenerateResource.Cache
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\LeapSigningMotion\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.exe
+C:\Users\FERRAND\Documents\Visual Studio 2010\Projects\I5\LeapSigningMotion\ProjectTest_LeapMotion\obj\x86\Debug\LeapSigningMotion.pdb
